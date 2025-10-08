@@ -1,0 +1,11 @@
+# Данные
+data/
+
+# CatBoost
+catboost_info/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
